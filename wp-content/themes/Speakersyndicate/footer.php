@@ -11,6 +11,8 @@
 ?>
 <!---footer Start Here--->
 
+<!-- This Digvijay edits for Git test-->
+
 <div class="footer">
   <div class="footer-top-section">
     <div class="container">
