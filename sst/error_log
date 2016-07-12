@@ -1,0 +1,6 @@
+[15-Jun-2016 05:15:49 America/Chicago] PHP Warning:  fopen(http://speakersyndicate.stagingdevsite.com/speakersyn-archive.zip): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/imarkclients/public_html/speakersyndicate/sst/sst.php on line 21
+[15-Jun-2016 05:16:10 America/Chicago] PHP Warning:  fopen(http://speakersyndicate.stagingdevsite.com/speakersyn-archive.zip): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/imarkclients/public_html/speakersyndicate/sst/sst.php on line 21
+[15-Jun-2016 05:16:25 America/Chicago] PHP Warning:  fopen(http://speakersyndicate.stagingdevsite.com/speakersyn-archive.zip): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/imarkclients/public_html/speakersyndicate/sst/sst.php on line 21

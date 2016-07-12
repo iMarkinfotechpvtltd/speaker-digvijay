@@ -1,0 +1,3 @@
+[11-Jul-2016 15:40:51 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/imarkclients/public_html/speakersyndicate/wp-content/themes/Speakersyndicate/profile_setup_ajax.php on line 359
+[11-Jul-2016 15:43:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/imarkclients/public_html/speakersyndicate/wp-content/themes/Speakersyndicate/profile_setup_ajax.php on line 359
+[11-Jul-2016 15:45:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/imarkclients/public_html/speakersyndicate/wp-content/themes/Speakersyndicate/profile_setup_ajax.php on line 359
